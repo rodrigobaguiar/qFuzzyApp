@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <DisplayName>qFuzzyApp</DisplayName>
+    <Description>A fuzzy logic application.</Description>
+    <Version>0.0.2</Version>
+    <ReleaseDate>2020-10-08</ReleaseDate>
+    <InstallerApplicationIcon>qFuzzyAppIcon.ico</InstallerApplicationIcon>
+    <Default>true</Default>
+    <Script>installscript.qs</Script>
+</Package>

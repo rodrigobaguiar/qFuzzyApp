@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>qFuzzyApp Installer</Name>
+    <Version>0.0.2</Version>
+    <Title>qFuzzyApp Installer</Title>
+    <Publisher>UFF/MESC</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>qFuzzyApp</StartMenuDir>
+    <TargetDir>@HomeDir@/qFuzzyApp</TargetDir>
+</Installer>
